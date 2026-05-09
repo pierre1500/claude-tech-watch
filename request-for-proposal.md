@@ -32,6 +32,7 @@
 
 | Project | Organization | Estimated Budget | Description | Deadline | Status | Date Added |
 |---|---|---|---|---|---|---|
+| AI Cyber Defense for Commercial Internet | US Special Operations Command (USSOCOM) | Undisclosed (multi-year DoD) | AI-driven cybersecurity for SOCOM commercial internet — zero-trust, behavioral analytics, automated incident response, DLP, AI governance; on-prem or hybrid deployment, Windows/Linux/Mac protection, real-time web filtering | May 28, 2026 | Sources Sought / RFI (H92403KC) — full & open competition via NAICS 541519 | 2026-05-09 |
 
 ---
 
@@ -40,6 +41,7 @@
 | Project | Organization | Estimated Budget | Description | Deadline | Status | Date Added |
 |---|---|---|---|---|---|---|
 | AIRR Expansion AI Cloud Compute | UK Dept. for Science, Innovation & Technology (DSIT) | £250M (~$312M) | Managed service provider to broker and integrate cloud AI compute into the UK AI Research Resource (AIRR) — includes strategic cloud brokerage, AIRRPortal integration, and managed operations for AI research workloads | June 23, 2026 | Two-stage competitive selection via CCS RM6190 Technology Services 4 Lot 6 | 2026-05-08 |
+| Sovereign Compute Environment Pre-Qualification (PQR) | Province of Alberta, Canada (Technology and Innovation) | TBD (34-month, multi-category) | Pre-qualification for domestic sovereign compute + AI + analytics platform for Alberta provincial government — domestically controlled AI models mandatory, Canada-resident contractors required; three categories: Sovereign Compute / AI Solutions / Analytics | April 30, 2026 (closed — award pending) | Competitive open bidding (PQR AB-2026-00655) — pre-qualified vendors eligible for Statements of Work | 2026-05-09 |
 
 ---
 
