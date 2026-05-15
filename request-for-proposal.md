@@ -25,6 +25,7 @@
 | Project | Organization | Estimated Budget | Description | Deadline | Status | Date Added |
 |---|---|---|---|---|---|---|
 | AI Infrastructure & Energy Generation at Savannah River Site | US DOE / NNSA | Long-term lease (multi-year, ~$500M+ est.) | Long-term lease for design, financing, construction, and operation of AI data center and co-located energy generation on DOE nuclear site land in South Carolina | January 9, 2026 (past due — award review) | Proposals evaluated; multi-site DOE program covering Brookhaven, Fermilab, NREL, Oak Ridge, Sandia, and others | 2026-05-08 |
+| Enterprise Artificial Intelligence: Platforms, Services & Integrated Delivery (RFP061726) | Nova Scotia Federation of Municipalities (via Sourcewell) | TBD (10-year master agreement) | Three lots: Lot 1 — AI Products & Platforms (infrastructure + agentic AI); Lot 2 — AI Professional Services (strategy, governance, managed services, engineering); Lot 3 — Integrated AI Delivery (single-vendor end-to-end); rolling supplier onboarding throughout 10-year term | June 17, 2026 | Open RFP — competitive; rolling supplier onboarding model; published May 7, 2026 | 2026-05-15 |
 
 ---
 
@@ -41,6 +42,7 @@
 | Project | Organization | Estimated Budget | Description | Deadline | Status | Date Added |
 |---|---|---|---|---|---|---|
 | AIRR Expansion AI Cloud Compute | UK Dept. for Science, Innovation & Technology (DSIT) | £250M (~$312M) | Managed service provider to broker and integrate cloud AI compute into the UK AI Research Resource (AIRR) — includes strategic cloud brokerage, AIRRPortal integration, and managed operations for AI research workloads | June 23, 2026 | Two-stage competitive selection via CCS RM6190 Technology Services 4 Lot 6 | 2026-05-08 |
+| AI Data Center Development at Joint Base Elmendorf Richardson, Eielson AFB, Clear SFS | US Dept. of the Air Force (DAF) | TBD (long-term commercial ground lease, multi-site) | RFLP for commercial AI data center design, financing, construction, and operation on US Air Force land in Alaska (JBER, Eielson AFB, Clear Space Force Station); monetary ground lease consideration to DAF; policy: efficient use of federal real property (EO 13327) | June 29, 2026 | RFLP open — competitive; published May 9, 2026 | 2026-05-15 |
 | Sovereign Compute Environment Pre-Qualification (PQR) | Province of Alberta, Canada (Technology and Innovation) | TBD (34-month, multi-category) | Pre-qualification for domestic sovereign compute + AI + analytics platform for Alberta provincial government — domestically controlled AI models mandatory, Canada-resident contractors required; three categories: Sovereign Compute / AI Solutions / Analytics | April 30, 2026 (closed — award pending) | Competitive open bidding (PQR AB-2026-00655) — pre-qualified vendors eligible for Statements of Work | 2026-05-09 |
 
 ---
