@@ -25,6 +25,7 @@
 | Project | Organization | Estimated Budget | Description | Deadline | Status | Date Added |
 |---|---|---|---|---|---|---|
 | AI Infrastructure & Energy Generation at Savannah River Site | US DOE / NNSA | Long-term lease (multi-year, ~$500M+ est.) | Long-term lease for design, financing, construction, and operation of AI data center and co-located energy generation on DOE nuclear site land in South Carolina | January 9, 2026 (past due — award review) | Proposals evaluated; multi-site DOE program covering Brookhaven, Fermilab, NREL, Oak Ridge, Sandia, and others | 2026-05-08 |
+| AI Data Center Development at Joint Base Elmendorf Richardson, Eielson AFB, Clear Space Force Station (AFCEC-26-R-0006) | US Dept of Air Force / AFCEC | Undisclosed (multi-year ground lease, monetary consideration to DAF) | Commercial AI data center development on DAF-leased land at three Alaska/Aleutian strategic military installations — aligned with DoD AI infrastructure executive policy; developers pay monetary consideration for leased parcels | June 29, 2026 | RFLP (Request for Lease Proposals) — open competition | 2026-05-16 |
 
 ---
 
@@ -64,3 +65,4 @@
 
 | Project | Organization | Estimated Budget | Description | Deadline | Status | Date Added |
 |---|---|---|---|---|---|---|
+| Enterprise AI: Platforms, Services, and Integrated Delivery (RFP061726) | Nova Scotia Federation of Municipalities (via Sourcewell cooperative purchasing) | TBD (10-year master agreement term with rolling supplier onboarding) | Three-lot RFP: Lot 1 (AI Products & Platforms incl. Intelligent Automation / Agentic AI), Lot 2 (AI Professional Services — strategy, governance, managed services, engineering), Lot 3 (Integrated AI Delivery — single-vendor end-to-end); rolling onboarding throughout 10-year term | June 17, 2026 | Formal RFP — competitive open bidding via Sourcewell cooperative purchasing | 2026-05-16 |
