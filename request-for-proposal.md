@@ -25,6 +25,7 @@
 | Project | Organization | Estimated Budget | Description | Deadline | Status | Date Added |
 |---|---|---|---|---|---|---|
 | AI Infrastructure & Energy Generation at Savannah River Site | US DOE / NNSA | Long-term lease (multi-year, ~$500M+ est.) | Long-term lease for design, financing, construction, and operation of AI data center and co-located energy generation on DOE nuclear site land in South Carolina | January 9, 2026 (past due — award review) | Proposals evaluated; multi-site DOE program covering Brookhaven, Fermilab, NREL, Oak Ridge, Sandia, and others | 2026-05-08 |
+| Provision of Canadian LLM for Inference | National Research Council of Canada (NRC) | Undisclosed (12-month contract) | Deploy a sovereign Canadian-built LLM locally in NRC's Azure Cloud — no data exfiltration, all compute on-prem, model built from scratch (no fine-tuning of existing models), MMLU/GPQA within 5pp of GPT-4o class models; licensing and installation assistance | March 23, 2026 (closed — ACAN) | Advance Contract Award Notice (25-58305) — award evaluation in progress; serves as a data sovereignty AI procurement reference | 2026-05-19 |
 
 ---
 
@@ -57,6 +58,7 @@
 | Project | Organization | Estimated Budget | Description | Deadline | Status | Date Added |
 |---|---|---|---|---|---|---|
 | AI Hub Data Commons Collaborative | Massachusetts Technology Collaborative (MassTech) | ~$2-5M est. | Full-service consulting for design and launch of the Massachusetts AI Hub Data Commons — architecture, metadata management, synthetic data tooling (SDV/Synthea), AI fairness framework (AIF360), RBAC/MFA governance, FAIR data principles | October 7, 2025 (past due — award review) | Proposals under evaluation; platform development expected H1 2026 | 2026-05-08 |
+| IT Services — Data and AI (Lots 1 & 2) | Swiss Federal Chancellery (Federal Administration of Switzerland) | CHF 57M (~$63M) | Two-lot framework: Lot 1 (data services) + Lot 2 (AI services) for 2026-2031 across the Swiss Federal Administration — 7 vendors per lot awarded highest points; supports digital transformation and shared AI solutions across federal offices and departments | ~June 2026 (evaluation) | Published March 25, 2026 on simap.ch — evaluation Q2 2026, services start Q3 2026 | 2026-05-19 |
 
 ---
 
@@ -64,3 +66,4 @@
 
 | Project | Organization | Estimated Budget | Description | Deadline | Status | Date Added |
 |---|---|---|---|---|---|---|
+| Enterprise AI: Platforms, Services, and Integrated Delivery (RFP061726) | Nova Scotia Federation of Municipalities (via Sourcewell) | Undisclosed (10-year master agreements) | Three-lot RFP: Lot 1 (AI Platforms + Agentic AI Infrastructure), Lot 2 (AI Professional Services), Lot 3 (Integrated AI Delivery); rolling supplier onboarding over 10-year term; covers intelligent automation platforms and agentic AI across North American public-sector | June 17, 2026 | Open competitive (RFP061726) — single primary Lot per proposer; 10-year term with supplemental onboarding rounds | 2026-05-19 |
