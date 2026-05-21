@@ -35,6 +35,7 @@
 | Project | Organization | Estimated Budget | Description | Deadline | Status | Date Added |
 |---|---|---|---|---|---|---|
 | AI Cyber Defense for Commercial Internet | US Special Operations Command (USSOCOM) | Undisclosed (multi-year DoD) | AI-driven cybersecurity for SOCOM commercial internet — zero-trust, behavioral analytics, automated incident response, DLP, AI governance; on-prem or hybrid deployment, Windows/Linux/Mac protection, real-time web filtering | May 28, 2026 | Sources Sought / RFI (H92403KC) — full & open competition via NAICS 541519 | 2026-05-09 |
+| AI/ML Cybersecurity of Novel Technology Implementations Service (ITES-10204-USA) | US Government (Rockville, MD) | Undisclosed (multi-year DoD-adjacent) | AI/ML-driven cybersecurity for novel technology implementations — covers zero-trust architecture, AI-driven behavioral threat detection, automated incident response, and security governance for emerging technology environments; aligns with 2026 National Cybersecurity Strategy mandate for AI in network defense | May 26, 2026 | Open competitive — full and open competition; NAICS 541519; responses being evaluated for future solicitation | 2026-05-21 |
 
 ---
 
@@ -44,6 +45,7 @@
 |---|---|---|---|---|---|---|
 | AIRR Expansion AI Cloud Compute | UK Dept. for Science, Innovation & Technology (DSIT) | £250M (~$312M) | Managed service provider to broker and integrate cloud AI compute into the UK AI Research Resource (AIRR) — includes strategic cloud brokerage, AIRRPortal integration, and managed operations for AI research workloads | June 23, 2026 | Two-stage competitive selection via CCS RM6190 Technology Services 4 Lot 6 | 2026-05-08 |
 | Sovereign Compute Environment Pre-Qualification (PQR) | Province of Alberta, Canada (Technology and Innovation) | TBD (34-month, multi-category) | Pre-qualification for domestic sovereign compute + AI + analytics platform for Alberta provincial government — domestically controlled AI models mandatory, Canada-resident contractors required; three categories: Sovereign Compute / AI Solutions / Analytics | April 30, 2026 (closed — award pending) | Competitive open bidding (PQR AB-2026-00655) — pre-qualified vendors eligible for Statements of Work | 2026-05-09 |
+| Sovereign Cloud Framework Contract | European Commission / EU Institutions, Bodies, Offices and Agencies | €180M (~$200M) over 6 years | Multi-provider sovereign cloud framework for EU institutions — evaluated on 8 sovereignty objectives via SEAL scoring (SEAL-2: Data Sovereignty; SEAL-3: Digital Resilience); 4 providers awarded covering European-headquartered cloud alternatives to US hyperscalers | Awarded April 17, 2026 | Awarded — 6-year framework active; EU agencies procure under framework without individual tenders; SEAL standard now active for all future EU sovereign cloud procurement | 2026-05-21 |
 
 ---
 
