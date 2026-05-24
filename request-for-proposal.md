@@ -10,6 +10,7 @@
 
 | Project | Organization | Estimated Budget | Description | Deadline | Status | Date Added |
 |---|---|---|---|---|---|---|
+| Next-Generation IT Solutions BPA (NEXT) | US General Services Administration — Technology Transformation Services (GSA TTS) | $700M / 5 years | Blanket Purchase Agreement for DevSecOps + secure modern development, cloud/infrastructure/cybersecurity, digital services, digital identity/fraud protection, AI strategy and implementation; max 5 awards in DevSecOps/AI/cloud categories; issued via MAS + Alliant 3 under FAR overhaul acquisition flexibilities | May 22, 2026 (bids due — evaluation ongoing) | Competitive; GSA plans H2 2026 awards; task orders begin on award | 2026-05-24 |
 
 ---
 
@@ -35,6 +36,8 @@
 | Project | Organization | Estimated Budget | Description | Deadline | Status | Date Added |
 |---|---|---|---|---|---|---|
 | AI Cyber Defense for Commercial Internet | US Special Operations Command (USSOCOM) | Undisclosed (multi-year DoD) | AI-driven cybersecurity for SOCOM commercial internet — zero-trust, behavioral analytics, automated incident response, DLP, AI governance; on-prem or hybrid deployment, Windows/Linux/Mac protection, real-time web filtering | May 28, 2026 | Sources Sought / RFI (H92403KC) — full & open competition via NAICS 541519 | 2026-05-09 |
+| Strengthening Defensive Cybersecurity and Penetration Testing via Agentic AI and Automation (ITES-10335) | US Government Authority — Washington, DC | Undisclosed (federal IT contract) | Agentic AI framework for automated penetration testing using multi-agent teams: MITRE ATT&CK-driven planning agent, cyber analysis agent, code generation + execution agent (NMAP, Metasploit in emulated environments); zero-trust principles; automated vulnerability assessment and defensive recommendation workflows | June 24, 2026 | Open competitive RFP — digital submission; posted May 22, 2026; NAICS 541519 | 2026-05-24 |
+| AI/ML Cybersecurity of Novel Technology Implementations (ITES-10204) | US Government Authority — Rockville, Maryland (Nuclear Regulatory sector) | Undisclosed (federal research contract, small business set-aside) | AI/ML cybersecurity research for nuclear power plants: in-depth literature assessment of AI/ML applications in operating and advanced/new reactor designs; cybersecurity concern analysis for AI/ML technologies across current operating + next-gen reactor architectures | May 26, 2026 | Small business set-aside; posted May 6, 2026 | 2026-05-24 |
 
 ---
 
@@ -69,3 +72,4 @@
 | Project | Organization | Estimated Budget | Description | Deadline | Status | Date Added |
 |---|---|---|---|---|---|---|
 | Enterprise AI: Platforms, Services, and Integrated Delivery (RFP061726) | Nova Scotia Federation of Municipalities (via Sourcewell) | Undisclosed (10-year master agreements) | Three-lot RFP: Lot 1 (AI Platforms + Agentic AI Infrastructure), Lot 2 (AI Professional Services), Lot 3 (Integrated AI Delivery); rolling supplier onboarding over 10-year term; covers intelligent automation platforms and agentic AI across North American public-sector | June 17, 2026 | Open competitive (RFP061726) — single primary Lot per proposer; 10-year term with supplemental onboarding rounds | 2026-05-19 |
+| Enterprise AI Platform Services and Integrated Delivery | Illinois Chief Procurement Office of General Services (CPOGS) | Undisclosed (state contract) | Enterprise-level AI platform services and integrated delivery for Illinois state government; AI platforms, agentic AI infrastructure, integrated delivery solutions; non-mandatory pre-proposal conference held May 12; no BEP/VBP participation goals; environmentally certified products preferred | June 17, 2026 | Open competitive RFP (26-510CPOGS-CPOGS-B-52369); questions due June 9, 2026; bid opening June 17 | 2026-05-24 |
