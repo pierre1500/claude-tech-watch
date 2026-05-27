@@ -10,6 +10,7 @@
 
 | Project | Organization | Estimated Budget | Description | Deadline | Status | Date Added |
 |---|---|---|---|---|---|---|
+| Managed Security Services Provider (MSSP) — State Board of Elections (BPM056889) | Maryland State Board of Elections (SBE) | $2.5M–$9M (AI estimate) | Comprehensive MSSP for Maryland SBE — secure configuration/compliance (NIST SP 800-53 Rev. 5, CIS Controls, NIST CSF), application security (SDLC security integration, code review), Zero Trust Architecture roadmap and deployment, SOC development with SIEM for real-time triage and forensics, technology risk management, security advisory; 2-year base + 2×2-year options; small business reserve (Maryland SBR certification required); 10% MBE subcontracting goal | July 8, 2026 | Open competitive RFP (BPM056889) — State of Maryland; Double Envelope Proposal; requires active Maryland SBR certification to submit | 2026-05-27 |
 
 ---
 
@@ -35,6 +36,8 @@
 | Project | Organization | Estimated Budget | Description | Deadline | Status | Date Added |
 |---|---|---|---|---|---|---|
 | AI Cyber Defense for Commercial Internet | US Special Operations Command (USSOCOM) | Undisclosed (multi-year DoD) | AI-driven cybersecurity for SOCOM commercial internet — zero-trust, behavioral analytics, automated incident response, DLP, AI governance; on-prem or hybrid deployment, Windows/Linux/Mac protection, real-time web filtering | May 28, 2026 | Sources Sought / RFI (H92403KC) — full & open competition via NAICS 541519 | 2026-05-09 |
+| Strengthening Defensive Cybersecurity and Penetration Testing Services Through Agentic AI and Automation (ITES-10335) | US Government Authority (Washington, DC) | Undisclosed (multi-year government contract) | Agentic AI framework for defensive cybersecurity and automated penetration testing — specialized AI agents with MITRE ATT&CK-aligned planning, cyber analysis, code generation/execution (NMAP, Metasploit in emulated environments), vulnerability assessment and prioritization automation; covers network enumeration, defensive posture assessment, and autonomous security workflow orchestration | June 24, 2026 | Open competitive (ITES-10335) — NAICS 541519; Washington, DC government authority; full agentic AI and automation scope | 2026-05-27 |
+| Provision of Cybersecurity and Technology Data Repository Services | Qatar National Cyber Security Agency (NCSA) | Refer to Document (Government-funded) | Cybersecurity and technology data repository services for Qatar's national cyber security agency — covers data repository design, cybersecurity tooling integration, and national-level threat intelligence capabilities | June 30, 2026 | Government tender (QAT Ref No: 129900631) — Qatar NCSA; self-financed national security program | 2026-05-27 |
 
 ---
 
