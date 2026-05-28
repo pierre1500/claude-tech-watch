@@ -10,6 +10,7 @@
 
 | Project | Organization | Estimated Budget | Description | Deadline | Status | Date Added |
 |---|---|---|---|---|---|---|
+| Strengthening Defensive Cybersecurity and Penetration Testing Services Through Agentic AI and Automation | US Federal Agency | Undisclosed (multi-year) | Agentic AI-driven defensive cybersecurity and automated penetration testing services — covers continuous autonomous vulnerability discovery, AI-powered offensive simulation, and automated defensive response at enterprise scale within federal compliance boundaries | June 24, 2026 | Open solicitation — actively accepting proposals; scope covers agentic AI integration for both offensive pen testing simulation and defensive response automation | 2026-05-28 |
 
 ---
 
@@ -44,6 +45,7 @@
 |---|---|---|---|---|---|---|
 | AIRR Expansion AI Cloud Compute | UK Dept. for Science, Innovation & Technology (DSIT) | £250M (~$312M) | Managed service provider to broker and integrate cloud AI compute into the UK AI Research Resource (AIRR) — includes strategic cloud brokerage, AIRRPortal integration, and managed operations for AI research workloads | June 23, 2026 | Two-stage competitive selection via CCS RM6190 Technology Services 4 Lot 6 | 2026-05-08 |
 | Sovereign Compute Environment Pre-Qualification (PQR) | Province of Alberta, Canada (Technology and Innovation) | TBD (34-month, multi-category) | Pre-qualification for domestic sovereign compute + AI + analytics platform for Alberta provincial government — domestically controlled AI models mandatory, Canada-resident contractors required; three categories: Sovereign Compute / AI Solutions / Analytics | April 30, 2026 (closed — award pending) | Competitive open bidding (PQR AB-2026-00655) — pre-qualified vendors eligible for Statements of Work | 2026-05-09 |
+| Generative AI Platform for Secure Workflow Automation and Compliance | US Federal Agency | Undisclosed (multi-year) | Procurement for a secure generative AI platform enabling workflow automation and compliance management across federal operations — covers LLM-based workflow orchestration, compliance reporting automation, secure deployment within FedRAMP authorization boundaries; requires FedRAMP Moderate or High authorization | June 24, 2026 | Open solicitation — actively accepting proposals; FedRAMP authorization and federal compliance framework integration required | 2026-05-28 |
 
 ---
 
